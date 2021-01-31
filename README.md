@@ -1,6 +1,6 @@
 # Roy Huang ☀ 🌙
 
-Hi I'm Roy (He/Him), a freshman currently studying computer science @ UC Berkeley. I am from Vancouver, BC and am staying there for a while due to remote classes. Here in the pins, I have some projects that I dabbled with. Currently, I am learning full-stack web dev while working with [IEEEBerkeley](https://github.com/IEEEBerkeley). In my spare time, I enjoy tinkering with LinuxOS 🐧, PC building 🖥, and grooving to good music 🎵.
+Hi I'm Roy (He/Him), a freshman currently studying computer science @ UC Berkeley. I am from Vancouver, BC and am staying there for a while due to remote classes. Here in the pins, I have some projects that I dabbled with. Big ML/AI + cloud fan. In my spare time, I enjoy tinkering with LinuxOS 🐧, PC building 🖥, and grooving to good music 🎵.
 
 <!--
 **royh02/royh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
