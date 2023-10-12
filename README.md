@@ -1,4 +1,4 @@
-# Roy Huang ☀ 🌙
+# Roy Huang
 
 Hi I'm Roy (He/Him), an senior studying computer science @ UC Berkeley. Here in the pins, I have some projects that I dabbled with. Big ML/AI + cloud fan. In my spare time, I enjoy tinkering with LinuxOS 🐧, PC building 🖥, and grooving to good music 🎵.
 
