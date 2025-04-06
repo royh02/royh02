@@ -1,4 +1,4 @@
-# Roy Huang
+# Roy Huang 👋
 
 Hi I'm Roy (He/Him), a Masters student studying computer science @ UC Berkeley. Here in the pins, I have some projects that I worked on.
 
